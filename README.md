@@ -1,5 +1,5 @@
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/rodrigosfelix](https://www.linkedin.com/in/gabriel-violante-sartori/?locale=en_US))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/rodrigosfelix]([https://www.linkedin.com/in/gabriel-violante-sartori/?locale=en_US)](https://www.linkedin.com/in/gabriel-violante-sartori/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrielsartori96@gmail.com)
 
 ## About Me
