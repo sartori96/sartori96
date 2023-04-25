@@ -14,12 +14,3 @@ Back-end Developer.
 <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/kubernetes/kubernetes-plain.svg"></code>
-
-
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartori96&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sartori96&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-</p>
