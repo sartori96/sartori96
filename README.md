@@ -13,4 +13,3 @@ Back-end Developer.
 <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/kubernetes/kubernetes-plain.svg"></code>
